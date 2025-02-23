@@ -44,7 +44,7 @@ This is a simple blog application that allows users to create posts, comment on 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/blog-application.git
+   git clone https://github.com/Anurag915/BlogApplication.git
    cd blog-application
    ```
 2. Install dependencies:
@@ -72,5 +72,5 @@ This project is open-source and available under the MIT License.
 
 ## Contact
 For any queries or support, please contact: 
-- **Email:** your-email@example.com
-- **GitHub:** [your-github-profile](https://github.com/your-github-profile)
+- **Email:** anuragprajapati02005@gmail.com
+- **GitHub:** [Anurag915](https://github.com/Anurag915)
